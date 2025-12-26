@@ -152,13 +152,13 @@ pixel-phantoms-website/
 Here are some screenshots of the Pixel Phantoms website:
 
 ### Home Page
-![Home Page Demo](assets/demo.png)
+<img src='assets/demo.png'/>
 
 ### Logo
-![Pixel Phantoms Logo](assets/logo.png)
+<img width='350px' src='assets/logo.png'/>
 
 ### Host Event
-![Host Event Image](assets/host-event.jpg)
+<img width='450px' src='assets/host-event.jpg'/>
 
 ---
 
@@ -283,8 +283,7 @@ Thanks to all the amazing contributors who make this project better every day! �
   <img width="550px" src="https://contrib.rocks/image?repo=sayeeg-11/Pixel_Phantoms" />
 </a>
 
-**👉 See the full contribution graph:**  
-https://github.com/sayeeg-11/Pixel_Phantoms/graphs/contributors
+**👉 See the full [contribution graph](https://github.com/sayeeg-11/Pixel_Phantoms/graphs/contributors)**  
 
 
 
